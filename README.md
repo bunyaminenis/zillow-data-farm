@@ -26,12 +26,13 @@ Easily adaptable for real Zillow or other property sites
 📁 Project Structure
 
 📦 zillow-form-bot/
+
 ├── main.py              # Main script to scrape Zillow and fill Google Form
 
 ▶️ How to Use
 1. Clone the repository
 
-    git clone https://github.com/yourusername/zillow-form-bot.git
+    git clone https://github.com/bunyaminenis/zillow-form-bot.git
     cd zillow-form-bot
 2. Install dependencies
 
